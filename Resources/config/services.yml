@@ -1,0 +1,4 @@
+services:
+    dyb_api.showcase.wrapper:
+        class: Dyb\ApiBundle\Showcase\ShowcaseApiWrapper
+        arguments: ["%dyb_api.showcase.key%", "%dyb_api.showcase.secret%"]

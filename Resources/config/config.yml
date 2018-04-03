@@ -1,0 +1,5 @@
+# EXAMPLE OF DYB CONFIGURATION - add it in your configuration file config.yml
+# dyb_api:
+#     showcase:
+#         key:        xxxxxxxxxxxxxxxxxxxxxxxxxxx
+#         secret:    xxxxxxxxxxxxxxxxxxxxxxxxxxx
