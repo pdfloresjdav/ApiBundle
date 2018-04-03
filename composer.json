@@ -1,5 +1,5 @@
 {
-    "name": "dyb/api-bundle",
+    "name": "pdfloresjdav/api-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DoYouBuzz Api Connection Bundle",
     "keywords": ["symfony","doyoubuzz", "showcase", "api", "library"],
