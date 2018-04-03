@@ -1,0 +1,28 @@
+{
+    "name": "dyb/api-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony DoYouBuzz Api Connection Bundle",
+    "keywords": ["symfony","doyoubuzz", "showcase", "api", "library"],
+    "homepage": "https://github.com/AppVentus/DybApiBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leny Bernard (AppVentus)",
+            "email": "leny@appventus.com",
+            "homepage": "http://appventus.com"
+        },
+        {
+            "name": "Doyoubuzz Team",
+            "email": "team@doyoubuzz.com",
+            "homepage": "http://doyoubuzz.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/class-loader": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": { "Dyb\\ApiBundle": "" }
+    },
+    "target-dir": "Dyb/ApiBundle",
+    "minimum-stability": "dev"
+}
